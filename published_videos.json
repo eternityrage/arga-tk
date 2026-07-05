@@ -574,5 +574,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b2a67e2d-437c-46da-a284-e3817d4e1a27.mp4",
+        "metadata": {
+            "title": "Ariana Grande Talks Euphoria Season 3 \u2014 What We Know",
+            "description": "Ariana Grande doesn't just walk red carpets \u2014 she owns them. From her iconic Tommy Hilfiger chainmail at the Euphoria premiere to that head-turning Margiela couture at the Oscars, every look is a moment. She works with her stylist Law Roach to create fashion history every single time. The way she carries herself, the confidence, the elegance \u2014 it's unmatched. Drop a \ud83d\udd25 if you think Ariana Grande is the best-dressed celebrity of our generation! #arianagrande #arianagrandestyle #redcarpet #fashionicon #lawroach #celebrityfashion #hollywoodstyle #arianagrandefan #metgala #euphoria #spiderman #dune #challengers #fashiongoals #icon",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
