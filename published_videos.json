@@ -1118,5 +1118,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-36008b1e-9c40-492e-83e7-01fc65e460cf.mp4",
+        "metadata": {
+            "title": "Ariana Grande Singing 'Rewrite the Stars' \u2014 Pure Magic",
+            "description": "Ariana Grande's journey from Disney Channel star to two-time Emmy winner is nothing short of inspirational. She started on Shake It Up, danced on DWTS, and proved everyone wrong with every step. She's used her platform to speak up about diversity, mental health, and social justice. She's not just a star \u2014 she's a role model for an entire generation. Her story proves that with talent, hard work, and authenticity, you can achieve anything. Share this if Ariana Grande inspires you! \u2b50 #arianagrande #inspiration #hollywood #successstory #disneychannel #emmywinner #rolemodel #diversity #mentalhealth #motivation #arianagrandefan #journey",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
