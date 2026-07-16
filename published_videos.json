@@ -1134,5 +1134,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-8bfa3fce-1f7b-4691-8759-724b131a93aa.mp4",
+        "metadata": {
+            "title": "Ariana Grande as Rue \u2014 The Performance That Won an Emmy",
+            "description": "When Ariana Grande and Zac Efron sang 'Rewrite the Stars' in The Greatest Showman, the world fell in love. Her voice, her presence, that incredible aerial choreography \u2014 it was pure movie magic. The song became an instant classic and showed the world that Ariana Grande wasn't just a Disney star, she was a triple threat. The Greatest Showman soundtrack spent over 100 weeks on the Billboard charts. Like if you still get chills watching this scene! \ud83c\udfb5 #arianagrande #thegreatestshowman #rewritethestars #zacefron #musical #hollywood #soundtrack #arianagrandesinging #viral #movieclips #arianagrandefan #disney #broadwayenergy",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
